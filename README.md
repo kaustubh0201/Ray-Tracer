@@ -183,7 +183,7 @@ This function was instrumental in algebraic calculation of dot products of vecto
 </div> <br>
 
 <div style="text-align:center">
-  Fig. 1. Efficiency vs Number of Threads
+  Fig. 3. Efficiency vs Number of Threads
 </div> <br>
 
 Fig 1, 2 and 3 above are produced by rendering the same image on multiple threads. Fig 1 is the graph of execution time vs the number of threads, we can observe that there is a steep decrease in the execution time when going from a single thread to eight threads. After eight threads the decrease is not noticeable.
