@@ -1,5 +1,7 @@
 # Parallelization of Ray Tracer
 
+<i>Note: Please star the repo if you find the project useful.</i>
+
 ## Introduction
 
 <div style="text-align: justify;">
