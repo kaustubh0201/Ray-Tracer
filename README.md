@@ -23,13 +23,13 @@ cmake --build .
 
 ### Brief Description of Idea
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img1.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
+<p align="center">
   Simple Ray Tracer
-</div> <br>
+</p>
 
 Ray Tracing is a technique for modeling light transport to use in a variety of rendering algorithms for generating the digital images.
 
@@ -37,13 +37,13 @@ Due to the high computational cost and visual fidelity mainly in path tracing, i
 
 ### Flowchart
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img2.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
+<p align="center">
   Flowchart of Ray Tracer Algorithm
-</div> <br>
+</p>
 
 ### Use Cases
 
@@ -138,55 +138,41 @@ This function was instrumental in algebraic calculation of dot products of vecto
 
 ### Rendered Images
 
-<div style="text-align:center">
-  <img src="./images/img3.jpeg" alt="Alt text">
-</div> <br>
+<p align="center"><img src="./images/img3.jpeg" alt="Alt text"></p>
 
-<div style="text-align:center">
-  Procedurally Generated Scene
-</div> <br>
+<p align="center">Procedurally Generated Scene</p>
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img4.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
-  UV Texture Mapping
-</div> <br>
+<p align="center">UV Texture Mapping</p>
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img5.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
-  Procedural Scene Generation Using UV Texture Mapping
-</div> <br>
+<p align="center">Procedural Scene Generation Using UV Texture Mapping</p>
 
 ### Discussion
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img6.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
-  Fig. 1. Execution Time vs Number of Threads
-</div> <br>
+<p align="center">Fig. 1. Execution Time vs Number of Threads</p>
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img7.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
-  Fig. 2. Speedup vs Number of Threads
-</div> <br>
+<p align="center">Fig. 2. Speedup vs Number of Threads</p>
 
-<div style="text-align:center">
+<p align="center">
   <img src="./images/img8.jpeg" alt="Alt text">
-</div> <br>
+</p>
 
-<div style="text-align:center">
-  Fig. 3. Efficiency vs Number of Threads
-</div> <br>
+<p align="center">Fig. 3. Efficiency vs Number of Threads</p>
 
 Fig 1, 2 and 3 above are produced by rendering the same image on multiple threads. Fig 1 is the graph of execution time vs the number of threads, we can observe that there is a steep decrease in the execution time when going from a single thread to eight threads. After eight threads the decrease is not noticeable.
 
