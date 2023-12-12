@@ -1,7 +1,5 @@
 # Parallelization of Ray Tracer
 
-<i>Note: Please star the repo if you find the project useful.</i>
-
 ## Introduction
 
 <p align="justify">
